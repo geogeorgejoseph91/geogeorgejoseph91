@@ -62,9 +62,9 @@ In my quest to bridge high-fidelity frontend design with data-driven solutions, 
 
 ### 📊 GitHub Activity & Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=geogeorgejoseph91&theme=radial&bg_color=0f0f0f&hide_border=true" alt="GitHub Activity Graph" width="97%" />
-</p>
+</p> -->
 
 #### **Detailed Profile Stats**
 *(Generated automatically by GitHub Actions daily)*
