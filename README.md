@@ -53,9 +53,22 @@ In my quest to bridge high-fidelity frontend design with data-driven solutions, 
 
 ### 📊 GitHub Activity & Statistics
 
+<<<<<<< HEAD
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geogeorgejoseph91&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geogeorgejoseph91&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+=======
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geogeorgejoseph91&theme=radial&bg_color=0f0f0f&hide_border=true" alt="GitHub Activity Graph" width="97%" />
+</p> -->
+
+#### **Detailed Profile Stats**
+*(Generated automatically by GitHub Actions daily)*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="48%" />
+  <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="48%" />
+>>>>>>> dfa913855a01b9db8e93fdfdb46e8b63e69f1d1e
 </p>
 
 <p align="center">
