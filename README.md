@@ -63,10 +63,10 @@ In my quest to bridge high-fidelity frontend design with data-driven solutions, 
 #### **Detailed Profile Stats**
 *(Generated automatically by GitHub Actions daily)*
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="48%" />
   <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="48%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorgejoseph91&theme=radial&hide_border=true" alt="GitHub Streak" width="97%" />
