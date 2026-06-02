@@ -28,18 +28,18 @@
 <!-- Key Metrics Banner -->
 <table align="center" width="100%">
   <tr align="center">
-    <td width="50%">
+    <td width="33%">
       <h3>💼 UI PROJECT LEADER</h3>
       <p><b>PanApps International Pvt. Ltd.</b><br>12+ Years Frontend Architecture</p>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3>🧠 DATA SCIENCE INTERN</h3>
       <p><b>Luminar Technolab</b><br>Python, ML & BI Specialization</p>
     </td>
-    <!-- <td width="33%">
+    <td width="33%">
       <h3>📈 ANALYTICS & UX</h3>
       <p>Bridging High-Fidelity UI with Predictive Analytics</p>
-    </td> -->
+    </td>
   </tr>
 </table>
 
@@ -130,19 +130,9 @@ In my quest to bridge high-fidelity frontend design with data-driven solutions, 
   <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="98%" />
 </p>
 
-<!-- Stats and Interactive Details Accordion -->
+<!-- Stats and Productive Time Side-by-Side (No Table Borders) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="60%" />
-</p>
-
-<p align="center">
-  <details>
-    <summary>🕒 <b>Click to View Productive Coding Hours & Peak Activity</b></summary>
-    <br/>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="80%" />
-    </p>
-  </details>
+  <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="49%" />&nbsp;<img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="49%" />
 </p>
 
 <!-- Contribution Activity Graph (Full Width with background color matching) -->
@@ -155,28 +145,8 @@ In my quest to bridge high-fidelity frontend design with data-driven solutions, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorgejoseph91&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
 
-<!-- Interactive Theme Selector -->
-<p align="center">
-  <b>🎨 Click to Preview Generated Themes:</b><br/>
-  <a href="https://github.com/geogeorgejoseph91/geogeorgejoseph91/tree/main/profile-summary-card-output/radical">
-    <img src="https://img.shields.io/badge/Radical-%23141321.svg?style=flat-square&logoColor=white" alt="Radical Theme" />
-  </a>
-  <a href="https://github.com/geogeorgejoseph91/geogeorgejoseph91/tree/main/profile-summary-card-output/tokyonight">
-    <img src="https://img.shields.io/badge/Tokyo_Night-%231a1b26.svg?style=flat-square&logoColor=white" alt="Tokyo Night" />
-  </a>
-  <a href="https://github.com/geogeorgejoseph91/geogeorgejoseph91/tree/main/profile-summary-card-output/onedark">
-    <img src="https://img.shields.io/badge/One_Dark-%23282c34.svg?style=flat-square&logoColor=white" alt="One Dark" />
-  </a>
-  <a href="https://github.com/geogeorgejoseph91/geogeorgejoseph91/tree/main/profile-summary-card-output/dracula">
-    <img src="https://img.shields.io/badge/Dracula-%23282a36.svg?style=flat-square&logoColor=white" alt="Dracula" />
-  </a>
-  <a href="https://github.com/geogeorgejoseph91/geogeorgejoseph91/tree/main/profile-summary-card-output/aura">
-    <img src="https://img.shields.io/badge/Aura-%2315141b.svg?style=flat-square&logoColor=white" alt="Aura" />
-  </a>
-</p>
-
 ---
 
-<!-- <p align="center">
+<p align="center">
   <i>"Combining 12+ years of UI precision with data-driven intelligence."</i>
-</p> -->
+</p>
