@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📊 GEO GEORGE | DEVELOPER DASHBOARD</h1>
+  <h1>📊 GEO GEORGE</h1>
   <p><b>Senior UI Architect & Lead &bull; Python Data Science & AI/ML Specialist</b></p>
   
   <p align="center">
