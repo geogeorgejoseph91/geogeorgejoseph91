@@ -96,7 +96,7 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 
 ### 🎓 Education & Certifications
 *   **Course / Certification in Python, SQL, ML & BI Specialization** – Luminar Technolab
-*   **Bachelor's Degree in Computer Science / Engineering** (or equivalent experience)
+*   **Bachelor's Degree in Information Technology (IT)** – Mahendra Institute of Technology, Namakkal, TN (CGPA: 7.85)
 
 ---
 
