@@ -34,7 +34,7 @@
     </td>
     <td width="33%">
       <h3>🧠 DATA SCIENCE INTERN</h3>
-      <p><b>Luminar Technolab</b><br>Python, ML & BI Specialization</p>
+      <p><b>Luminar Technolab</b><br>Python, SQL, ML & BI Specialization</p>
     </td>
     <td width="33%">
       <h3>📈 ANALYTICS & UX</h3>
@@ -49,7 +49,7 @@
 
 I am a senior **UI Project Leader & Frontend Architect** currently working at **PanApps International Pvt. Ltd.** with over **12 years of hands-on experience** designing and building scalable design systems, responsive web architectures, and premium user experiences.
 
-In my quest to bridge high-fidelity frontend design with data-driven solutions, I am also pursuing a **Python Data Science Internship** specializing in **AI, Machine Learning, and Power BI** at **Luminar Technolab**. This dual expertise allows me to engineer interfaces that are not only visually stunning but also backed by advanced data visualization and predictive analytics.
+In my quest to bridge high-fidelity frontend design with data-driven solutions, I am also pursuing a **Python Data Science Internship** specializing in **Python, SQL, AI, Machine Learning, and Power BI** at **Luminar Technolab**. This dual expertise allows me to engineer interfaces that are not only visually stunning but also backed by advanced data visualization and predictive analytics.
 
 ---
 
@@ -145,8 +145,3 @@ In my quest to bridge high-fidelity frontend design with data-driven solutions, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorgejoseph91&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
 
----
-
-<p align="center">
-  <i>"Combining 12+ years of UI precision with data-driven intelligence."</i>
-</p>
