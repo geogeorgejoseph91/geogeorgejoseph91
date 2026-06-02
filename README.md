@@ -128,37 +128,23 @@ In my quest to bridge high-fidelity frontend design with data-driven solutions, 
 
 <!-- Profile Details Card (Full Width) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="100%" />
+  <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="98%" />
 </p>
 
-<!-- 2x2 Grid of Stats Cards -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos Per Language" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<!-- Activity Graph (Full Width) -->
+<!-- Side-by-Side Stats & Productivity Cards (No Table Borders) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geogeorgejoseph91&theme=radical&bg_color=0f0f0f&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="49%" />
+</p>
+
+<!-- Contribution Activity Graph (Full Width with background color matching) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geogeorgejoseph91&theme=radical&bg_color=141321&hide_border=true" alt="GitHub Activity Graph" width="98%" />
 </p>
 
 <!-- Streak Stats (Full Width) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorgejoseph91&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorgejoseph91&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
 
 ---
