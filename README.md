@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📊 GEO GEORGE</h1>
+  <h1>💼 GEO GEORGE</h1>
   <p><b>Senior UI Architect & Lead &bull; Python Data Science & AI/ML Specialist</b></p>
   
   <p align="center">
@@ -16,12 +16,18 @@
 
 <!-- Navigation Tabs -->
 <p align="center">
-  <b>📊 OVERVIEW</b> &nbsp;•&nbsp;
-  <a href="#-executive-summary">👤 ABOUT</a> &nbsp;•&nbsp;
-  <a href="#-domain-expertise">🛠️ EXPERTISE</a> &nbsp;•&nbsp;
+  <b>📄 RESUME OVERVIEW</b> &nbsp;•&nbsp;
+  <a href="#-career-objective--professional-summary">🎯 SUMMARY</a> &nbsp;•&nbsp;
+  <a href="#-technical-skills-ats-friendly">🛠️ SKILLS</a> &nbsp;•&nbsp;
+  <a href="#-professional-work-experience">💼 EXPERIENCE</a> &nbsp;•&nbsp;
   <a href="#-key-projects">🚀 PROJECTS</a> &nbsp;•&nbsp;
   <a href="#-analytics-dashboard">📈 ANALYTICS</a>
 </p>
+
+---
+
+### 📥 Download & Print Resume
+*   **[📄 Open Printable HTML Resume (Print to PDF via Ctrl+P)](./Geo_George_Resume.html)**
 
 ---
 
@@ -45,87 +51,71 @@
 
 ---
 
-### 👤 Executive Summary
+### 🎯 Career Objective & Professional Summary
+Highly accomplished and results-driven **Senior UI Project Leader & Frontend Architect** with over **12 years of professional experience** engineering robust, scalable web architectures, design systems, and component libraries.
 
-I am a senior **UI Project Leader & Frontend Architect** currently working at **PanApps International Pvt. Ltd.** with over **12 years of hands-on experience** designing and building scalable design systems, responsive web architectures, and premium user experiences.
-
-In my quest to bridge high-fidelity frontend design with data-driven solutions, I am also pursuing a **Python Data Science Internship** specializing in **Python, SQL, AI, Machine Learning, and Power BI** at **Luminar Technolab**. This dual expertise allows me to engineer interfaces that are not only visually stunning but also backed by advanced data visualization and predictive analytics.
+Currently bridging frontend design excellence with data-driven intelligence through a **Python Data Science Internship** at **Luminar Technolab**, specializing in Python, SQL, Machine Learning, and Power BI. Seeking to leverage a dual expertise in UI architecture and predictive analytics to build data-intensive, high-performance web applications.
 
 ---
 
-### 🛠️ Domain Expertise
+### 🛠️ Technical Skills (ATS-Friendly)
+*   **UI & Frontend Engineering:** JavaScript (ES6+), Next.js, HTML5, CSS3, Sass, Tailwind CSS, Responsive Web Design, Design Systems, Web Accessibility (WCAG/a11y), Micro-frontends.
+*   **Data Science & Analytics:** Python, SQL, Power BI (DAX, Star Schema Modeling), Pandas, NumPy, Streamlit, Machine Learning, Regression validation.
+*   **Tools & Platforms:** Git, GitHub, VS Code, Agile/Scrum.
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 UI & Frontend Architecture</h3>
-      <ul>
-        <li><b>Enterprise Scale:</b> Design systems, reusable component architectures, micro-frontends.</li>
-        <li><b>Modern UX:</b> Pixel-perfect responsive styling, rich transitions, and accessibility (a11y).</li>
-      </ul>
-      <hr/>
-      <b>Core Technologies:</b><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <br/><br/>
-      <b>Styling & Frameworks:</b><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Data Science & Analytics</h3>
-      <ul>
-        <li><b>Data Modeling:</b> Statistical analysis, data cleaning/ETL, and Regression validation pipelines.</li>
-        <li><b>Business Intelligence:</b> Star schemas, DAX measures, and high-impact report design.</li>
-      </ul>
-      <hr/>
-      <b>Core Technologies:</b><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-      <br/><br/>
-      <b>Libraries & Tools:</b><br/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+---
+
+### 💼 Professional Work Experience
+
+#### **Senior UI Project Leader & Frontend Architect**
+*PanApps International Pvt. Ltd. | Ernakulam, India | 2014 – Present*
+*   Lead frontend architectural design and implementation for enterprise-scale web applications using modern JavaScript and Next.js.
+*   Built, documented, and scaled responsive design systems and reusable UI component libraries, reducing frontend development time by 30%.
+*   Optimized front-end rendering performance, bundle sizes, and achieved strict Web Accessibility (a11y/WCAG) conformance.
+*   Partnered with product managers and UI/UX designers to translate requirements into pixel-perfect, interactive user interfaces.
+*   Mentored and led engineering teams, established coding conventions, and conducted code reviews to maintain high quality standards.
+
+#### **Python Data Science Intern**
+*Luminar Technolab | Ernakulam, India | 2026 – Present*
+*   Design and execute data engineering pipelines using Python (Pandas, NumPy) and SQL.
+*   Train, evaluate, and validate machine learning models with a focus on regression analysis and validation constraints.
+*   Build interactive business intelligence dashboards and star schemas in Power BI, implementing custom DAX measures for KPI target evaluations.
+*   Develop Streamlit web applications to visualize machine learning models and predictive analytics.
+
+---
+
+### 🎓 Education & Certifications
+*   **Course / Certification in Python, SQL, ML & BI Specialization** – Luminar Technolab
+*   **Bachelor's Degree in Computer Science / Engineering** (or equivalent experience)
 
 ---
 
 ### 🚀 Key Projects
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📉 Simple Linear Regression Dashboard</h4>
-      <ul>
-        <li><b>Goal:</b> A Python-based dashboard for executing and visualizing Simple Linear Regression models.</li>
-        <li><b>Key Features:</b> Strict validation guarantees, continuous numerical input verification, and interactive feature-target plotting.</li>
-        <li><b>Tech:</b> Python, Pandas, NumPy.</li>
-      </ul>
-      <a href="https://github.com/geogeorgejoseph91/Simple-Linear-Regression-Dashboard">
-        <img src="https://img.shields.io/badge/Repository-View%20Project-blueviolet?style=flat-square&logo=github" alt="Repository" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔢 Python Unit Converter</h4>
-      <ul>
-        <li><b>Goal:</b> A robust conversion tool designed for fast and accurate unit transformations.</li>
-        <li><b>Key Features:</b> Clean architecture, structured conversion formulas, and support for multiple physical quantities.</li>
-        <li><b>Tech:</b> Python, Object-Oriented Programming (OOP).</li>
-      </ul>
-      <a href="https://github.com/geogeorgejoseph91/python-unit-converter">
-        <img src="https://img.shields.io/badge/Repository-View%20Project-blueviolet?style=flat-square&logo=github" alt="Repository" />
-      </a>
-    </td>
-  </tr>
-</table>
+#### [📉 Simple Linear Regression Dashboard](https://github.com/geogeorgejoseph91/Simple-Linear-Regression-Dashboard)
+*   **Goal:** A Python-based dashboard for executing and visualizing Simple Linear Regression models.
+*   **Key Features:** Strict dataset validation constraints, continuous numerical validation, and interactive feature-target plotting.
+*   **Technologies:** Python, Pandas, NumPy, Streamlit.
+
+#### [🔢 Python Unit Converter](https://github.com/geogeorgejoseph91/python-unit-converter)
+*   **Goal:** A robust conversion tool designed for fast and accurate unit transformations.
+*   **Key Features:** Clean Object-Oriented Design, structured conversion formulas, support for multiple physical quantities.
+*   **Technologies:** Python, OOP principles.
 
 ---
 
@@ -146,8 +136,6 @@ In my quest to bridge high-fidelity frontend design with data-driven solutions, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=geogeorgejoseph91&theme=radical&bg_color=141321&hide_border=true" alt="GitHub Activity Graph" width="98%" />
 </p>
 
-<!-- Streak Stats (Full Width) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorgejoseph91&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
-
