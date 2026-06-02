@@ -102,7 +102,7 @@ In my quest to bridge high-fidelity frontend design with data-driven solutions, 
       <ul>
         <li><b>Goal:</b> A Python-based dashboard for executing and visualizing Simple Linear Regression models.</li>
         <li><b>Key Features:</b> Strict validation guarantees, continuous numerical input verification, and interactive feature-target plotting.</li>
-        <li><b>Tech:</b> Python, Pandas, NumPy, Scikit-learn.</li>
+        <li><b>Tech:</b> Python, Pandas, NumPy.</li>
       </ul>
       <a href="https://github.com/geogeorgejoseph91/Simple-Linear-Regression-Dashboard">
         <img src="https://img.shields.io/badge/Repository-View%20Project-blueviolet?style=flat-square&logo=github" alt="Repository" />
