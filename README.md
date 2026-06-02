@@ -17,11 +17,11 @@
 <!-- Navigation Tabs -->
 <p align="center">
   <b>📄 RESUME OVERVIEW</b> &nbsp;•&nbsp;
-  <a href="#executive-summary">🎯 SUMMARY</a> &nbsp;•&nbsp;
-  <a href="#technical-skills">🛠️ SKILLS</a> &nbsp;•&nbsp;
-  <a href="#professional-work-experience">💼 EXPERIENCE</a> &nbsp;•&nbsp;
-  <a href="#key-projects">🚀 PROJECTS</a> &nbsp;•&nbsp;
-  <a href="#analytics-dashboard">📈 ANALYTICS</a>
+  <a href="#user-content-executive-summary">🎯 SUMMARY</a> &nbsp;•&nbsp;
+  <a href="#user-content-technical-skills">🛠️ SKILLS</a> &nbsp;•&nbsp;
+  <a href="#user-content-professional-work-experience">💼 EXPERIENCE</a> &nbsp;•&nbsp;
+  <a href="#user-content-key-projects">🚀 PROJECTS</a> &nbsp;•&nbsp;
+  <a href="#user-content-analytics-dashboard">📈 ANALYTICS</a>
 </p>
 
 
