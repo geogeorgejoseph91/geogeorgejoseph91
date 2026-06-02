@@ -37,8 +37,8 @@
       <p><b>Luminar Technolab</b><br>Python, SQL, ML & BI Specialization</p>
     </td>
     <td width="33%">
-      <h3>📈 DOMAIN EXPERTISE</h3>
-      <p>Integrating Premium UI with Data Analytics</p>
+      <h3>📈 FUTURE FOCUS</h3>
+      <p>Engineering Data-Intensive Web Applications</p>
     </td>
   </tr>
 </table>
