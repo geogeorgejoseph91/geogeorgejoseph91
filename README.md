@@ -17,11 +17,11 @@
 <!-- Navigation Tabs -->
 <p align="center">
   <b>📄 RESUME OVERVIEW</b> &nbsp;•&nbsp;
-  <a href="#summary">🎯 SUMMARY</a> &nbsp;•&nbsp;
-  <a href="#skills">🛠️ SKILLS</a> &nbsp;•&nbsp;
-  <a href="#experience">💼 EXPERIENCE</a> &nbsp;•&nbsp;
-  <a href="#projects">🚀 PROJECTS</a> &nbsp;•&nbsp;
-  <a href="#analytics">📈 ANALYTICS</a>
+  <a href="#executive-summary">🎯 SUMMARY</a> &nbsp;•&nbsp;
+  <a href="#technical-skills">🛠️ SKILLS</a> &nbsp;•&nbsp;
+  <a href="#professional-work-experience">💼 EXPERIENCE</a> &nbsp;•&nbsp;
+  <a href="#key-projects">🚀 PROJECTS</a> &nbsp;•&nbsp;
+  <a href="#analytics-dashboard">📈 ANALYTICS</a>
 </p>
 
 
@@ -45,18 +45,14 @@
 
 ---
 
-<a id="summary"></a>
-
-### 🎯 Career Objective & Professional Summary
+### Executive Summary
 Highly accomplished and results-driven **Senior UI Project Leader & Frontend Architect** with over **12 years of professional experience** engineering robust, scalable web architectures, design systems, and component libraries.
 
 Currently bridging frontend design excellence with data-driven intelligence through a **Python Data Science Internship** at **Luminar Technolab**, specializing in Python, SQL, Machine Learning, and Power BI. Seeking to leverage a dual expertise in UI architecture and predictive analytics to build data-intensive, high-performance web applications.
 
 ---
 
-<a id="skills"></a>
-
-### 🛠️ Technical Skills
+### Technical Skills
 *   **UI & Frontend Engineering:** JavaScript (ES6+), Next.js, HTML5, CSS3, Sass, Tailwind CSS, Responsive Web Design, Design Systems, Web Accessibility (WCAG/a11y), Micro-frontends.
 *   **Data Science & Analytics:** Python, SQL, Power BI (DAX, Star Schema Modeling), Pandas, NumPy, Streamlit, Machine Learning, Regression validation.
 *   **Tools & Platforms:** Git, GitHub, VS Code, Agile/Scrum.
@@ -78,9 +74,7 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 
 ---
 
-<a id="experience"></a>
-
-### 💼 Professional Work Experience
+### Professional Work Experience
 
 #### **Senior UI Project Leader & Frontend Architect**
 *PanApps International Pvt. Ltd. | Ernakulam, India | 2014 – Present*
@@ -101,9 +95,7 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 
 ---
 
-<a id="projects"></a>
-
-### 🚀 Key Projects
+### Key Projects
 
 #### [📉 Simple Linear Regression Dashboard](https://github.com/geogeorgejoseph91/Simple-Linear-Regression-Dashboard)
 *   **Goal:** A Python-based dashboard for executing and visualizing Simple Linear Regression models.
@@ -117,9 +109,7 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 
 ---
 
-<a id="analytics"></a>
-
-### 📈 Analytics Dashboard
+### Analytics Dashboard
 
 <!-- Profile Details Card (Full Width) -->
 <p align="center">
