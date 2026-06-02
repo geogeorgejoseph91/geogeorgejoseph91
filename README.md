@@ -90,12 +90,12 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 *   Mentored and led engineering teams, established coding conventions, and conducted code reviews to maintain high quality standards.
 
 #### **Python Data Science Intern**
-*Luminar Technolab | Ernakulam, India | 2026 – Present*
+*[Luminar Technolab](https://www.luminartechnolab.com/), Kochi | 2026 – Present*
 
 ---
 
 ### 🎓 Education & Certifications
-*   **Course / Certification in Python, SQL, ML & BI Specialization** – Luminar Technolab
+*   **Course / Certification in Python, SQL, ML & BI Specialization** – [Luminar Technolab](https://www.luminartechnolab.com/), Kochi
 *   **Bachelor's Degree in Information Technology (IT)** – Mahendra Institute of Technology, Namakkal, TN (CGPA: 7.85)
 
 ---
