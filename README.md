@@ -98,22 +98,24 @@ In my quest to bridge high-fidelity frontend design with data-driven solutions, 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 Retail Business Intelligence Dashboard</h4>
+      <h4>📉 Simple Linear Regression Dashboard</h4>
       <ul>
-        <li><b>Goal:</b> High-fidelity profitability tracking (Net Profit, COGS, OpEx).</li>
-        <li><b>Tech:</b> Programmatic assembly of TMDL/PBIR, dynamic DAX measures, star schema modeling.</li>
+        <li><b>Goal:</b> A Python-based dashboard for executing and visualizing Simple Linear Regression models.</li>
+        <li><b>Key Features:</b> Strict validation guarantees, continuous numerical input verification, and interactive feature-target plotting.</li>
+        <li><b>Tech:</b> Python, Pandas, NumPy, Scikit-learn.</li>
       </ul>
-      <a href="https://github.com/geogeorgejoseph91/geogeorgejoseph91">
+      <a href="https://github.com/geogeorgejoseph91/Simple-Linear-Regression-Dashboard">
         <img src="https://img.shields.io/badge/Repository-View%20Project-blueviolet?style=flat-square&logo=github" alt="Repository" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>📉 Regression Dashboard & Validation</h4>
+      <h4>🔢 Python Unit Converter</h4>
       <ul>
-        <li><b>Goal:</b> Validate continuous dataset inputs for predictive models.</li>
-        <li><b>Tech:</b> Python validation layers, feature-target mapping, dataset constraints.</li>
+        <li><b>Goal:</b> A robust conversion tool designed for fast and accurate unit transformations.</li>
+        <li><b>Key Features:</b> Clean architecture, structured conversion formulas, and support for multiple physical quantities.</li>
+        <li><b>Tech:</b> Python, Object-Oriented Programming (OOP).</li>
       </ul>
-      <a href="https://github.com/geogeorgejoseph91/geogeorgejoseph91">
+      <a href="https://github.com/geogeorgejoseph91/python-unit-converter">
         <img src="https://img.shields.io/badge/Repository-View%20Project-blueviolet?style=flat-square&logo=github" alt="Repository" />
       </a>
     </td>
