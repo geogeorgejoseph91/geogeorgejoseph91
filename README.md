@@ -24,11 +24,6 @@
   <a href="#-analytics-dashboard">📈 ANALYTICS</a>
 </p>
 
----
-
-*   **[📄 Open Printable HTML Resume (Print to PDF via Ctrl+P)](./Geo_George_Resume.html)**
-
----
 
 <!-- Key Metrics Banner -->
 <table align="center" width="100%">
