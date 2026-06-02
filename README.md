@@ -21,8 +21,7 @@
   <a href="#user-content-executive-summary">🎯 SUMMARY</a> &nbsp;•&nbsp;
   <a href="#user-content-technical-skills">🛠️ SKILLS</a> &nbsp;•&nbsp;
   <a href="#user-content-professional-work-experience">💼 EXPERIENCE</a> &nbsp;•&nbsp;
-  <a href="#user-content-key-projects">🚀 PROJECTS</a> &nbsp;•&nbsp;
-  <a href="#user-content-analytics-dashboard">📈 ANALYTICS</a>
+  <a href="#user-content-key-projects">🚀 PROJECTS</a>
 </p>
 
 
@@ -108,21 +107,22 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 *   **Key Features:** Clean Object-Oriented Design, structured conversion formulas, support for multiple physical quantities.
 *   **Technologies:** Python, OOP principles.
 
+<!--
 ---
 
 ### Analytics Dashboard
 
-<!-- Profile Details Card (Full Width) -->
+Profile Details Card (Full Width)
 <p align="center">
   <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="98%" />
 </p>
 
-<!-- Stats and Productive Time Side-by-Side (No Table Borders) -->
+Stats and Productive Time Side-by-Side (No Table Borders)
 <p align="center">
   <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="49%" />&nbsp;<img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="49%" />
 </p>
 
-<!-- Contribution Activity Graph (Full Width with background color matching) -->
+Contribution Activity Graph (Full Width with background color matching)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=geogeorgejoseph91&theme=radical&bg_color=141321&hide_border=true" alt="GitHub Activity Graph" width="98%" />
 </p>
@@ -130,3 +130,4 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorgejoseph91&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
+-->
