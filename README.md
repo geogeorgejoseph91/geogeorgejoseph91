@@ -55,7 +55,7 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 ### Technical Skills
 *   **UI & Frontend Engineering:** JavaScript (ES6+), Next.js, HTML5, CSS3, Sass, Tailwind CSS, Responsive Web Design, Design Systems, Web Accessibility (WCAG/a11y), Micro-frontends.
 *   **Data Science & Analytics:** Python, SQL, Power BI (DAX, Star Schema Modeling), Pandas, NumPy, Streamlit, Machine Learning, Regression validation.
-*   **Tools & Platforms:** Git, GitHub, VS Code, Agile/Scrum.
+*   **Tools & Platforms:** Git, GitHub, VS Code.
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
