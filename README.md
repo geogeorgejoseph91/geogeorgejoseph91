@@ -20,8 +20,7 @@
   <a href="#-executive-summary">👤 ABOUT</a> &nbsp;•&nbsp;
   <a href="#-domain-expertise">🛠️ EXPERTISE</a> &nbsp;•&nbsp;
   <a href="#-key-projects">🚀 PROJECTS</a> &nbsp;•&nbsp;
-  <a href="#-analytics-dashboard">📈 ANALYTICS</a> &nbsp;•&nbsp;
-  <a href="#-connect">🤝 CONNECT</a>
+  <a href="#-analytics-dashboard">📈 ANALYTICS</a>
 </p>
 
 ---
@@ -30,16 +29,16 @@
 <table align="center" width="100%">
   <tr align="center">
     <td width="33%">
-      <h3>💼 UI EXPERIENCE</h3>
-      <p><b>12+ Years</b> of Frontend Leadership & UX Architecture</p>
+      <h3>💼 UI PROJECT LEADER</h3>
+      <p><b>PanApps International Pvt. Ltd.</b><br>12+ Years Frontend Architecture</p>
     </td>
     <td width="33%">
-      <h3>🧠 DATA & AI</h3>
-      <p>Python, ML Modeling, & Power BI Engineering</p>
+      <h3>🧠 DATA SCIENCE INTERN</h3>
+      <p><b>Luminar Technolab</b><br>Python, ML & BI Specialization</p>
     </td>
     <td width="33%">
-      <h3>📈 FINANCIAL BI</h3>
-      <p>Retail Profitability & DAX Specialist</p>
+      <h3>📈 ANALYTICS & UX</h3>
+      <p>Bridging High-Fidelity UI with Predictive Analytics</p>
     </td>
   </tr>
 </table>
@@ -48,9 +47,9 @@
 
 ### 👤 Executive Summary
 
-I am a senior **UI Project Leader & Frontend Architect** with over **12 years of hands-on experience** designing and building scalable design systems, responsive web architectures, and premium user experiences.
+I am a senior **UI Project Leader & Frontend Architect** currently working at **PanApps International Pvt. Ltd.** with over **12 years of hands-on experience** designing and building scalable design systems, responsive web architectures, and premium user experiences.
 
-In my quest to bridge high-fidelity frontend design with data-driven solutions, I am currently working as a **Python Data Science Intern** specializing in **AI, Machine Learning, and Power BI** at **Luminar Technolab**. This dual expertise allows me to engineer interfaces that are not only visually stunning but also backed by advanced data visualization and predictive analytics.
+In my quest to bridge high-fidelity frontend design with data-driven solutions, I am also pursuing a **Python Data Science Internship** specializing in **AI, Machine Learning, and Power BI** at **Luminar Technolab**. This dual expertise allows me to engineer interfaces that are not only visually stunning but also backed by advanced data visualization and predictive analytics.
 
 ---
 
@@ -131,10 +130,19 @@ In my quest to bridge high-fidelity frontend design with data-driven solutions, 
   <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="98%" />
 </p>
 
-<!-- Side-by-Side Stats & Productivity Cards (No Table Borders) -->
+<!-- Stats and Interactive Details Accordion -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="49%" />
-  <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="49%" />
+  <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="60%" />
+</p>
+
+<p align="center">
+  <details>
+    <summary>🕒 <b>Click to View Productive Coding Hours & Peak Activity</b></summary>
+    <br/>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="80%" />
+    </p>
+  </details>
 </p>
 
 <!-- Contribution Activity Graph (Full Width with background color matching) -->
@@ -147,30 +155,25 @@ In my quest to bridge high-fidelity frontend design with data-driven solutions, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geogeorgejoseph91&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
 
----
-
-### 🤝 Connect
-
-<table align="center" width="100%">
-  <tr align="center">
-    <td width="33%">
-      <a href="https://www.linkedin.com/in/geo-george-joseph/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br/>
-        <sub>Professional Profile</sub>
-      </a>
-    </td>
-    <td width="33%">
-      <a href="mailto:geogeorge91@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /><br/>
-        <sub>Get In Touch</sub>
-      </a>
-    </td>
-    <td width="33%">
-      <img src="https://img.shields.io/badge/Location-Kochi%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /><br/>
-      <sub>Ernakulam, Kerala (683544)</sub>
-    </td>
-  </tr>
-</table>
+<!-- Interactive Theme Selector -->
+<p align="center">
+  <b>🎨 Click to Preview Generated Themes:</b><br/>
+  <a href="https://github.com/geogeorgejoseph91/geogeorgejoseph91/tree/main/profile-summary-card-output/radical">
+    <img src="https://img.shields.io/badge/Radical-%23141321.svg?style=flat-square&logoColor=white" alt="Radical Theme" />
+  </a>
+  <a href="https://github.com/geogeorgejoseph91/geogeorgejoseph91/tree/main/profile-summary-card-output/tokyonight">
+    <img src="https://img.shields.io/badge/Tokyo_Night-%231a1b26.svg?style=flat-square&logoColor=white" alt="Tokyo Night" />
+  </a>
+  <a href="https://github.com/geogeorgejoseph91/geogeorgejoseph91/tree/main/profile-summary-card-output/onedark">
+    <img src="https://img.shields.io/badge/One_Dark-%23282c34.svg?style=flat-square&logoColor=white" alt="One Dark" />
+  </a>
+  <a href="https://github.com/geogeorgejoseph91/geogeorgejoseph91/tree/main/profile-summary-card-output/dracula">
+    <img src="https://img.shields.io/badge/Dracula-%23282a36.svg?style=flat-square&logoColor=white" alt="Dracula" />
+  </a>
+  <a href="https://github.com/geogeorgejoseph91/geogeorgejoseph91/tree/main/profile-summary-card-output/aura">
+    <img src="https://img.shields.io/badge/Aura-%2315141b.svg?style=flat-square&logoColor=white" alt="Aura" />
+  </a>
+</p>
 
 ---
 
