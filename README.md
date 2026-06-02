@@ -18,7 +18,7 @@
 <p align="center">
   <b>📄 RESUME OVERVIEW</b> &nbsp;•&nbsp;
   <a href="#-career-objective--professional-summary">🎯 SUMMARY</a> &nbsp;•&nbsp;
-  <a href="#-technical-skills-ats-friendly">🛠️ SKILLS</a> &nbsp;•&nbsp;
+  <a href="#-technical-skills">🛠️ SKILLS</a> &nbsp;•&nbsp;
   <a href="#-professional-work-experience">💼 EXPERIENCE</a> &nbsp;•&nbsp;
   <a href="#-key-projects">🚀 PROJECTS</a> &nbsp;•&nbsp;
   <a href="#-analytics-dashboard">📈 ANALYTICS</a>
@@ -26,7 +26,6 @@
 
 ---
 
-### 📥 Download & Print Resume
 *   **[📄 Open Printable HTML Resume (Print to PDF via Ctrl+P)](./Geo_George_Resume.html)**
 
 ---
@@ -58,7 +57,7 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 
 ---
 
-### 🛠️ Technical Skills (ATS-Friendly)
+### 🛠️ Technical Skills
 *   **UI & Frontend Engineering:** JavaScript (ES6+), Next.js, HTML5, CSS3, Sass, Tailwind CSS, Responsive Web Design, Design Systems, Web Accessibility (WCAG/a11y), Micro-frontends.
 *   **Data Science & Analytics:** Python, SQL, Power BI (DAX, Star Schema Modeling), Pandas, NumPy, Streamlit, Machine Learning, Regression validation.
 *   **Tools & Platforms:** Git, GitHub, VS Code, Agile/Scrum.
@@ -92,10 +91,6 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 
 #### **Python Data Science Intern**
 *Luminar Technolab | Ernakulam, India | 2026 – Present*
-*   Design and execute data engineering pipelines using Python (Pandas, NumPy) and SQL.
-*   Train, evaluate, and validate machine learning models with a focus on regression analysis and validation constraints.
-*   Build interactive business intelligence dashboards and star schemas in Power BI, implementing custom DAX measures for KPI target evaluations.
-*   Develop Streamlit web applications to visualize machine learning models and predictive analytics.
 
 ---
 
