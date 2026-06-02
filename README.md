@@ -28,18 +28,18 @@
 <!-- Key Metrics Banner -->
 <table align="center" width="100%">
   <tr align="center">
-    <td width="33%">
+    <td width="50%">
       <h3>💼 UI PROJECT LEADER</h3>
       <p><b>PanApps International Pvt. Ltd.</b><br>12+ Years Frontend Architecture</p>
     </td>
-    <td width="33%">
+    <td width="50%">
       <h3>🧠 DATA SCIENCE INTERN</h3>
       <p><b>Luminar Technolab</b><br>Python, ML & BI Specialization</p>
     </td>
-    <td width="33%">
+    <!-- <td width="33%">
       <h3>📈 ANALYTICS & UX</h3>
       <p>Bridging High-Fidelity UI with Predictive Analytics</p>
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -177,6 +177,6 @@ In my quest to bridge high-fidelity frontend design with data-driven solutions, 
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <i>"Combining 12+ years of UI precision with data-driven intelligence."</i>
-</p>
+</p> -->
