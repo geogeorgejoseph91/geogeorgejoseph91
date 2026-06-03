@@ -1,3 +1,12 @@
+
+<style>
+  body {
+    background-color: #f2f2f2;
+  }
+  header{
+    background-color: #ffffff;
+  }
+</style>
 <div align="center">
   <h1>💼 GEO GEORGE</h1>
   <p><b>Senior UI Architect & Lead &bull; Python Data Science & AI/ML Specialist</b></p>
