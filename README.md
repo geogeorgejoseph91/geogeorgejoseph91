@@ -1,4 +1,4 @@
-<img src="profile-card.svg" width="100%" />
+
 <div align="center">
   <h1>💼 GEO GEORGE</h1>
   <p><b>Senior UI Architect & Lead &bull; Python Data Science & AI/ML Specialist</b></p>
