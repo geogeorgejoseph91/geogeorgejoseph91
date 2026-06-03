@@ -1,15 +1,4 @@
-<svg fill="none" viewBox="0 0 800 250" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-       body{
-         background-color: #f2f2f2;
-       }
-      </style>
-    </div>
-  </foreignObject>
-</svg>
-
+<img src="profile-card.svg" width="100%" />
 <div align="center">
   <h1>💼 GEO GEORGE</h1>
   <p><b>Senior UI Architect & Lead &bull; Python Data Science & AI/ML Specialist</b></p>
