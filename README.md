@@ -118,8 +118,8 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 
 #### [🏏 IPL Analytics Dashboard](https://github.com/geogeorgejoseph91/IPL-Analytics)
 - **Goal:** End-to-end exploratory data analysis and visualization of Indian Premier League match data.
-- **Key Features:** Season-wise performance trends, player & team stats, win-probability insights, and interactive visual dashboards.
-- **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Streamlit.
+- **Key Features:** Season-wise performance trends & team stats, win-probability insights, and interactive visual dashboards.
+- **Technologies:** Power BI, DAX.
 
 #### [📉 Simple Linear Regression Dashboard](https://github.com/geogeorgejoseph91/Simple-Linear-Regression-Dashboard)
 - **Goal:** A Python-based dashboard for executing and visualizing Simple Linear Regression models.
