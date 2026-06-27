@@ -1,0 +1,51 @@
+<svg width="1200" height="220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0f2540;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D2FF;stop-opacity:0" />
+      <stop offset="30%" style="stop-color:#00D2FF;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#3A7BD5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3A7BD5;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D2FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="220" fill="url(#bgGrad)" rx="12"/>
+
+  <!-- Decorative top-left glow circle -->
+  <circle cx="60" cy="60" r="80" fill="#00D2FF" fill-opacity="0.05"/>
+  <!-- Decorative bottom-right glow circle -->
+  <circle cx="1140" cy="160" r="100" fill="#3A7BD5" fill-opacity="0.06"/>
+
+  <!-- Accent lines -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#lineGrad)" rx="2"/>
+  <rect x="0" y="217" width="1200" height="3" fill="url(#lineGrad)" rx="2"/>
+
+  <!-- Side accent bars -->
+  <rect x="80" y="60" width="3" height="100" fill="#00D2FF" fill-opacity="0.4" rx="2"/>
+  <rect x="1117" y="60" width="3" height="100" fill="#3A7BD5" fill-opacity="0.4" rx="2"/>
+
+  <!-- Main name -->
+  <text x="600" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="900" fill="url(#textGrad)" text-anchor="middle" filter="url(#glow)" letter-spacing="4">GEO GEORGE</text>
+
+  <!-- Divider dot row -->
+  <text x="600" y="132" font-family="Arial" font-size="14" fill="#00D2FF" text-anchor="middle" fill-opacity="0.7">◆ &nbsp;&nbsp;&nbsp; ◆ &nbsp;&nbsp;&nbsp; ◆</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#a8d8ea" text-anchor="middle" letter-spacing="1" font-weight="400">Senior UI Architect &amp; Lead  ·  Python Data Science &amp; AI/ML Specialist</text>
+</svg>
