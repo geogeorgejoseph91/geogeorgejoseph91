@@ -1,5 +1,3 @@
-<img width="100%" src="https://raw.githubusercontent.com/geogeorgejoseph91/geogeorgejoseph91/main/assets/banner.svg" alt="Geo George Banner" />
-
 <div align="center">
   <h1>💼 GEO GEORGE</h1>
   <p><b>Senior UI Architect & Lead &bull; Python Data Science & AI/ML Specialist</b></p>
