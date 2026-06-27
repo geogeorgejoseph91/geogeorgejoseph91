@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:3A7BD5&height=220&section=header&text=GEO%20GEORGE&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Senior%20UI%20Architect%20%7C%20Data%20Science%20%26%20AI%2FML%20Specialist&descAlignY=58&descSize=22&animation=fadeIn" />
+
 <div align="center">
   <h1>💼 GEO GEORGE</h1>
   <p><b>Senior UI Architect & Lead &bull; Python Data Science & AI/ML Specialist</b></p>
@@ -159,7 +161,7 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geogeorgejoseph91&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=geogeorgejoseph91&theme=radical&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -167,3 +169,5 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 <p align="center">
   <i>⚡ "Bridging beautiful UIs with data-driven intelligence"</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:00D2FF&height=140&section=footer&animation=fadeIn" />
