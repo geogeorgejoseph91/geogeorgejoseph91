@@ -131,6 +131,10 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 - **Key Features:** Clean Object-Oriented Design, structured conversion formulas, support for multiple physical quantities.
 - **Technologies:** Python, OOP principles.
 
+#### [📄 Resume Skill Scorer](https://github.com/geogeorgejoseph91/resume-skill-scorer)
+- **Goal:** Analysing resume score using OCR.
+- **Technologies:** Python, Jupyter Notebook, OCR.
+
 ---
 
 ## 📊 GitHub Analytics
