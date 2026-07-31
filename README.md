@@ -135,6 +135,11 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 - **Goal:** Analysing resume score using OCR.
 - **Technologies:** Python, Jupyter Notebook, OCR.
 
+#### [🎭 FacePunch — Face Recognition Attendance System](https://github.com/geogeorgejoseph91/facepunch)
+- **Goal:** Webcam-based attendance logger that recognizes known faces and punches in automatically.
+- **Key Features:** Reference-photo face encoding, real-time webcam face matching, duplicate-free CSV attendance logging.
+- **Technologies:** Python, OpenCV, dlib, face_recognition, NumPy, Jupyter Notebook.
+
 ---
 
 ## 📊 GitHub Analytics
