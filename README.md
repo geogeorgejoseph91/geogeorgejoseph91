@@ -1,16 +1,16 @@
 <div align="center">
   <h1>💼 GEO GEORGE</h1>
-  <p><b>Senior UI Architect & Lead &bull; Python Data Science & AI/ML Specialist</b></p>
+  <p><b>AI/ML Specialist &bull; Power BI & Data Analytics &bull; Frontend Architect</b></p>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=50&lines=Project+Leader+(UI)+%7C+12%2B+Years+Experience;Python+Data+Science+%26+AI%2FML+Intern;UI+Architect+%2B+Business+Intelligence+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=50&lines=Senior+UI+Project+Leader+(12%2B+Yrs);Python+Data+Science+%26+AI%2FML+Specialist;Power+BI+%26+Data+Analytics+Engineer" alt="Typing SVG" /></a>
 
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/geo-george-joseph/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://wa.me/919526862313"><img src="https://img.shields.io/badge/WhatsApp-%2B919526862313-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:geogeorge91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:geogeorgejosephk@gmail.com"><img src="https://img.shields.io/badge/Email-geogeorgejosephk%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/geogeorgejoseph91"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Location-Ernakulam%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Ernakulam%2C%20Kerala%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 
 ---
@@ -22,6 +22,7 @@
   <a href="#-technical-skills">🛠️ SKILLS</a> &nbsp;•&nbsp;
   <a href="#-professional-experience">💼 EXPERIENCE</a> &nbsp;•&nbsp;
   <a href="#-key-projects">🚀 PROJECTS</a> &nbsp;•&nbsp;
+  <a href="#-education--certifications">🎓 EDUCATION</a> &nbsp;•&nbsp;
   <a href="#-github-analytics">📊 ANALYTICS</a>
 </p>
 
@@ -31,16 +32,16 @@
 <table align="center" width="100%">
   <tr align="center">
     <td width="33%">
-      <h3>💼 UI PROJECT LEADER</h3>
-      <p><b>PanApps International Pvt. Ltd.</b><br/>12+ Years Frontend Architecture</p>
+      <h3>💼 FRONTEND ARCHITECT</h3>
+      <p><b>PanApps International Pvt. Ltd.</b><br/>12+ Years Enterprise UI Leadership</p>
     </td>
     <td width="33%">
       <h3>🧠 DATA SCIENCE INTERN</h3>
       <p><b>Luminar Technolab</b><br/>Python, SQL, ML & BI Specialization</p>
     </td>
     <td width="33%">
-      <h3>📈 FUTURE FOCUS</h3>
-      <p>Engineering Data-Intensive Web Applications</p>
+      <h3>📈 DUAL EXPERTISE</h3>
+      <p>Bridging Web Systems & AI/ML Intelligence</p>
     </td>
   </tr>
 </table>
@@ -49,31 +50,35 @@
 
 ## 🎯 Executive Summary
 
-Highly accomplished and results-driven **Senior UI Project Leader & Frontend Architect** with over **12 years of professional experience** engineering robust, scalable web architectures, design systems, and component libraries.
+AI/ML and Data Science professional skilled in **Python, Machine Learning, SQL, and Power BI**, with hands-on experience building regression and classification models, interactive **Streamlit** applications, and **BI dashboards** that turn raw data into actionable business insights. 
 
-Currently bridging frontend design excellence with data-driven intelligence through a **Python Data Science Internship** at **Luminar Technolab**, specializing in Python, SQL, Machine Learning, and Power BI. Seeking to leverage a dual expertise in UI architecture and data analytics to build data-intensive, high-performance web applications.
+Backed by **12+ years of experience as a Frontend Architect & Senior UI Project Leader**, leading enterprise-scale web applications, design systems, and engineering teams. Combines strong engineering fundamentals with analytical, data-driven thinking to deliver modern, end-to-end data products.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **UI & Frontend Engineering:** JavaScript (ES6+), Next.js, HTML5, CSS3, Sass, Tailwind CSS, Responsive Web Design, Design Systems, Web Accessibility (WCAG/a11y), Micro-frontends.
-- **Data Science & Analytics:** Python, SQL, Power BI (DAX, Star Schema Modeling), Pandas, NumPy, Streamlit, Machine Learning, Regression validation.
-- **Tools & Platforms:** Git, GitHub, VS Code.
+- **Programming:** Python, JavaScript, SQL
+- **Data Science & AI/ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning (Regression, Classification), Statistics, Exploratory Data Analysis (EDA), Data Cleaning & Preprocessing, Streamlit
+- **Analytics & BI:** Power BI (DAX, Power Query, Star Schema Modeling), Data Visualization, Dashboard & Report Development, MySQL
+- **UI & Frontend Architecture:** Next.js, HTML5, CSS3, Sass, Tailwind CSS, Responsive Web Design, Web Accessibility (WCAG/a11y), Design Systems, Reusable Component Libraries
+- **Tools & Platforms:** Git, GitHub, VS Code, Microsoft Excel
+- **Soft Skills:** Analytical Thinking & Problem Solving
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
@@ -82,35 +87,19 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 
 ## 💼 Professional Experience
 
-### Senior UI Project Leader & Frontend Architect
+### 🐍 Python Data Science and AI/ML Intern
+**[Luminar Technolab](https://www.luminartechnolab.com/)** &nbsp;·&nbsp; Kochi, India &nbsp;·&nbsp; *2026 – Present*
+
+- Building and evaluating Machine Learning models (Regression, Classification) using Scikit-learn, Pandas, and NumPy, including data cleaning and EDA.
+- Developing interactive dashboards with Streamlit and Power BI (DAX, Power Query, Star Schema) for data visualization and reporting.
+- Writing SQL queries for data extraction, aggregation, and analysis on relational databases.
+
+### 💻 Senior UI Project Leader and Frontend Architect
 **PanApps International Pvt. Ltd.** &nbsp;·&nbsp; Ernakulam, India &nbsp;·&nbsp; *2014 – Present*
 
-- Lead frontend architectural design and implementation for enterprise-scale web applications using modern JavaScript and Next.js.
-- Built, documented, and scaled responsive design systems and reusable UI component libraries, reducing frontend development time by **30%**.
-- Optimized front-end rendering performance, bundle sizes, and achieved strict Web Accessibility (a11y/WCAG) conformance.
-- Partnered with product managers and UI/UX designers to translate requirements into pixel-perfect, interactive user interfaces.
-- Mentored and led engineering teams, established coding conventions, and conducted code reviews to maintain high quality standards.
-
-### Python Data Science Intern
-**[Luminar Technolab](https://www.luminartechnolab.com/)** &nbsp;·&nbsp; Kochi &nbsp;·&nbsp; *2026 – Present*
-
----
-
-## 🌱 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-Algorithms-FF6F61?style=flat-square&logo=tensorflow&logoColor=white" alt="ML" />
-  <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-7B2FBE?style=flat-square&logo=pytorch&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Data_Visualization-Power_BI_+_Matplotlib-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Data Viz" />
-  <img src="https://img.shields.io/badge/Full--Stack_AI-Python_+_Next.js-3776AB?style=flat-square&logo=python&logoColor=white" alt="Full Stack AI" />
-</p>
-
----
-
-## 🎓 Education & Certifications
-
-- **Course / Certification in Python, SQL, ML & BI Specialization** – [Luminar Technolab](https://www.luminartechnolab.com/), Kochi
-- **Bachelor's Degree in Information Technology (IT)** – Mahendra Institute of Technology, Namakkal, TN (CGPA: 7.85)
+- Lead frontend architecture for enterprise-scale web applications using modern JavaScript and Next.js.
+- Built responsive design systems and reusable component libraries, cutting development time by 30%, with strict WCAG accessibility and performance optimization.
+- Mentored engineering teams and partnered with product managers and designers to deliver pixel-perfect user interfaces.
 
 ---
 
@@ -139,6 +128,13 @@ Currently bridging frontend design excellence with data-driven intelligence thro
 - **Goal:** Webcam-based attendance logger that recognizes known faces and punches in automatically.
 - **Key Features:** Reference-photo face encoding, real-time webcam face matching, duplicate-free CSV attendance logging.
 - **Technologies:** Python, OpenCV, dlib, face_recognition, NumPy, Jupyter Notebook.
+
+---
+
+## 🎓 Education & Certifications
+
+- 📜 **Python, SQL, ML and BI Specialization** – [Luminar Technolab](https://www.luminartechnolab.com/), Kochi (*2026 – Present*)
+- 🎓 **Bachelor of Technology (B.Tech) in Information Technology** – Mahendra Institute of Technology, Namakkal, TN (*2009 – 2013*, CGPA: **7.85**)
 
 ---
 
