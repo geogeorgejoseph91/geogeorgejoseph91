@@ -105,29 +105,45 @@ Backed by **12+ years of experience as a Frontend Architect & Senior UI Project 
 
 ## 🚀 Key Projects
 
-#### [🏏 IPL Analytics Dashboard](https://github.com/geogeorgejoseph91/IPL-Analytics)
-- **Goal:** End-to-end exploratory data analysis and visualization of Indian Premier League match data.
-- **Key Features:** Season-wise performance trends & team stats, win-probability insights, and interactive visual dashboards.
-- **Technologies:** Power BI, DAX.
+#### 🤖 [AI PDF Question Answering System (Offline RAG)](https://github.com/geogeorgejoseph91/ai-pdf-question-answering-system)
+- **Goal:** Built a local Retrieval-Augmented Generation (RAG) web application to extract and answer questions from PDF documents completely offline.
+- **Key Features:** Fast PDF text chunking, local vector embeddings powered by ChromaDB, offline LLM inference via Ollama, zero API key dependencies, and interactive Streamlit UI.
+- **Technologies:** Python, Streamlit, LangChain, ChromaDB, Ollama.
 
-#### [📉 Simple Linear Regression Dashboard](https://github.com/geogeorgejoseph91/Simple-Linear-Regression-Dashboard)
-- **Goal:** A Python-based dashboard for executing and visualizing Simple Linear Regression models.
-- **Key Features:** Strict dataset validation constraints, continuous numerical validation, and interactive feature-target plotting.
-- **Technologies:** Python, Pandas, NumPy, Streamlit.
+#### 💬 [Luminar Technolab AI Chatbot](https://github.com/geogeorgejoseph91/ai-chatbot)
+- **Goal:** Interactive AI-powered customer and student support chatbot for Luminar Technolab.
+- **Key Features:** Handles course inquiries, fee structures, placement records, and branch locations using Google Gemini API with structured prompt engineering.
+- **Technologies:** Python, Streamlit, Google Gemini API, Pandas.
 
-#### [🔢 Python Unit Converter](https://github.com/geogeorgejoseph91/python-unit-converter)
-- **Goal:** A robust conversion tool designed for fast and accurate unit transformations.
-- **Key Features:** Clean Object-Oriented Design, structured conversion formulas, support for multiple physical quantities.
-- **Technologies:** Python, OOP principles.
+#### 🏏 [IPL Analytics Dashboard](https://github.com/geogeorgejoseph91/IPL-Analytics)
+- **Goal:** End-to-end exploratory data analysis and visual dashboard of Indian Premier League (IPL) historical data.
+- **Key Features:** Star-schema data modeling, custom DAX metrics for match outcomes & player stats, interactive filters, and season-over-season performance trends.
+- **Technologies:** Power BI, DAX, Power Query.
 
-#### [📄 Resume Skill Scorer](https://github.com/geogeorgejoseph91/resume-skill-scorer)
-- **Goal:** Analysing resume score using OCR.
-- **Technologies:** Python, Jupyter Notebook, OCR.
+#### 📉 [Simple Linear Regression Dashboard](https://github.com/geogeorgejoseph91/Simple-Linear-Regression-Dashboard)
+- **Goal:** Engineered an interactive Python dashboard to execute and visualize Simple Linear Regression models on user-uploaded datasets.
+- **Key Features:** Strict dataset validation, continuous numerical checks (reducing invalid input errors by 100% during testing), and scatter plot regression lines.
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Streamlit.
 
-#### [🎭 FacePunch — Face Recognition Attendance System](https://github.com/geogeorgejoseph91/facepunch)
-- **Goal:** Webcam-based attendance logger that recognizes known faces and punches in automatically.
-- **Key Features:** Reference-photo face encoding, real-time webcam face matching, duplicate-free CSV attendance logging.
-- **Technologies:** Python, OpenCV, dlib, face_recognition, NumPy, Jupyter Notebook.
+#### 📄 [Resume Skill Scorer](https://github.com/geogeorgejoseph91/resume-skill-scorer)
+- **Goal:** OCR-based automated resume analysis and skill detection system.
+- **Key Features:** Text extraction via Tesseract OCR, dictionary skill matching, and visual bounding-box highlighting directly on resume images.
+- **Technologies:** Python, Tesseract OCR, OpenCV, Pandas, Jupyter Notebook.
+
+#### 🎭 [FacePunch — Face Recognition Attendance System](https://github.com/geogeorgejoseph91/facepunch)
+- **Goal:** Real-time webcam-based attendance logging system for automated employee/student check-in.
+- **Key Features:** Deep learning face encodings, live video frame processing, instant recognition, and duplicate-free CSV logging.
+- **Technologies:** Python, OpenCV, dlib, face_recognition, NumPy.
+
+#### 🏏 [Cricket Stroke Recognition System](https://github.com/geogeorgejoseph91/cricket-stroke-recognition)
+- **Goal:** Computer vision classification model to identify and classify cricket batting strokes from images/video frames.
+- **Key Features:** Image preprocessing, feature extraction, and automated shot classification for sports analytics.
+- **Technologies:** Python, OpenCV, Scikit-learn.
+
+#### 🔢 [Python Unit Converter](https://github.com/geogeorgejoseph91/python-unit-converter)
+- **Goal:** Robust, extensible unit conversion tool supporting 10+ physical quantity categories.
+- **Key Features:** Object-Oriented Design (OOD), modular formula architecture, enabling rapid addition of new physical unit types.
+- **Technologies:** Python, OOP Principles.
 
 ---
 
