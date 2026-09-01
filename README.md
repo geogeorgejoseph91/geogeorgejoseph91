@@ -16,11 +16,12 @@
 <!-- Navigation Tabs -->
 <p align="center">
   <b>📄 RESUME OVERVIEW</b> &nbsp;•&nbsp;
-  <a href="#-executive-summary">🎯 SUMMARY</a> &nbsp;•&nbsp;
-  <a href="#-technical-skills">🛠️ SKILLS</a> &nbsp;•&nbsp;
-  <a href="#-professional-experience">💼 EXPERIENCE</a> &nbsp;•&nbsp;
-  <a href="#-key-projects">🚀 PROJECTS</a> &nbsp;•&nbsp;
-  <a href="#-education--certifications">🎓 EDUCATION</a> &nbsp;•&nbsp;
+  <a href="#-profile">🎯 PROFILE</a> &nbsp;•&nbsp;
+  <a href="#%EF%B8%8F-skills">🛠️ SKILLS</a> &nbsp;•&nbsp;
+  <a href="#-work-experience">💼 WORK EXPERIENCE</a> &nbsp;•&nbsp;
+  <a href="#-projects">🚀 PROJECTS</a> &nbsp;•&nbsp;
+  <a href="#-education">🎓 EDUCATION</a> &nbsp;•&nbsp;
+  <a href="#-certifications">📜 CERTIFICATIONS</a> &nbsp;•&nbsp;
   <a href="#-github-analytics">📊 ANALYTICS</a>
 </p>
 
@@ -46,7 +47,7 @@
 
 ---
 
-## 🎯 Executive Summary
+## 🎯 Profile
 
 AI/ML and Data Science professional skilled in **Python, Machine Learning, SQL, and Power BI**, with hands-on experience building regression and classification models, interactive **Streamlit** applications, and **BI dashboards** that turn raw data into actionable business insights. 
 
@@ -54,7 +55,7 @@ Backed by **12+ years of experience as a Frontend Architect & Senior UI Project 
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
 - **Programming:** Python, JavaScript, SQL
 - **Data Science & AI/ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning (Regression, Classification), Statistics, Exploratory Data Analysis (EDA), Data Cleaning & Preprocessing, Streamlit
@@ -83,7 +84,7 @@ Backed by **12+ years of experience as a Frontend Architect & Senior UI Project 
 
 ---
 
-## 💼 Professional Experience
+## 💼 Work Experience
 
 ### 🐍 Python Data Science and AI/ML Intern
 **[Luminar Technolab](https://www.luminartechnolab.com/)** &nbsp;·&nbsp; Kochi, India &nbsp;·&nbsp; *2026 – Present*
@@ -101,7 +102,7 @@ Backed by **12+ years of experience as a Frontend Architect & Senior UI Project 
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Projects
 
 #### 🤖 [AI PDF Question Answering System (Offline RAG)](https://github.com/geogeorgejoseph91/ai-pdf-question-answering-system)
 - **Goal:** Built a local Retrieval-Augmented Generation (RAG) web application to extract and answer questions from PDF documents completely offline.
@@ -145,10 +146,18 @@ Backed by **12+ years of experience as a Frontend Architect & Senior UI Project 
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-- 📜 **Python, SQL, ML and BI Specialization** – [Luminar Technolab](https://www.luminartechnolab.com/), Kochi (*2026 – Present*)
-- 🎓 **Bachelor of Technology (B.Tech) in Information Technology** – Mahendra Institute of Technology, Namakkal, TN (*2009 – 2013*, CGPA: **7.85**)
+- **Bachelor of Technology in Information Technology** &nbsp;·&nbsp; *2009 – 2013*
+  - Mahendra Institute of Technology, Namakkal, TN
+  - **CGPA:** 7.85
+
+---
+
+## 📜 Certifications
+
+- **Python, SQL, ML and BI Specialization** &nbsp;·&nbsp; *2026 – Present*
+  - [Luminar Technolab](https://www.luminartechnolab.com/), Kochi
 
 ---
 
