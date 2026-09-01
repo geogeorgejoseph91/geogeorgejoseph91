@@ -2,9 +2,7 @@
   <h1>💼 GEO GEORGE</h1>
   <p><b>AI/ML Specialist &bull; Power BI & Data Analytics &bull; Frontend Architect</b></p>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=50&lines=Senior+UI+Project+Leader+(12%2B+Yrs);Python+Data+Science+%26+AI%2FML+Specialist;Power+BI+%26+Data+Analytics+Engineer" alt="Typing SVG" /></a>
-
-  <br/><br/>
+  <br/>
 
   <a href="https://www.linkedin.com/in/geo-george-joseph/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://wa.me/919526862313"><img src="https://img.shields.io/badge/WhatsApp-%2B919526862313-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
